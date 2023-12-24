@@ -1,0 +1,14 @@
+
+ POST http://localhost:2082/app/signup
+ Content-Type: application/json
+
+{
+    "fullName":"sonu kumari",
+    "username":"kumarisonu",
+    "email":"sonufg@123gmail.com",
+    "password":"@Sonus"
+
+}
+
+
+
